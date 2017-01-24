@@ -36,7 +36,7 @@ VALUES
 	(9, 'Writer',
 	'M',
 	'NYC, NY',
-	''),
+	'22'),
 	(10, 'Chef',
 	'M',
 	'Seattle, WA',

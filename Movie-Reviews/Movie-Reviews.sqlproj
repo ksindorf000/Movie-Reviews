@@ -64,5 +64,10 @@
     <Build Include="Create_Review_Table.sql" />
     <Build Include="Insert_Data_Movies.sql" />
     <Build Include="Insert_Data_Person.sql" />
+    <Build Include="Insert_Data_Review.sql" />
+    <Build Include="Query_Age_ReviewedToyStory.sql" />
+    <Build Include="Query_Occ_Under40.sql" />
+    <Build Include="Query_Movies_NoURL.sql" />
+    <Build Include="Query_Movies_RateLess2.sql" />
   </ItemGroup>
 </Project>
