@@ -69,5 +69,7 @@
     <Build Include="Query_Occ_Under40.sql" />
     <Build Include="Query_Movies_NoURL.sql" />
     <Build Include="Query_Movies_RateLess2.sql" />
+    <Build Include="Query_PersonData_MostRecentReleaseReview.sql" />
+    <Build Include="Query_Drama_Over30.sql" />
   </ItemGroup>
 </Project>
