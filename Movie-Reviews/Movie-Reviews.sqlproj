@@ -62,5 +62,7 @@
     <Build Include="Create_Person_Table.sql" />
     <Build Include="Create_Movies_Table.sql" />
     <Build Include="Create_Review_Table.sql" />
+    <Build Include="Insert_Data_Movies.sql" />
+    <Build Include="Insert_Data_Person.sql" />
   </ItemGroup>
 </Project>
